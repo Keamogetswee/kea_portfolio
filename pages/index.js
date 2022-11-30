@@ -27,7 +27,7 @@ export default function Home() {
         borderRadius: '25em'
     }
     const PersonalProjectStyle = {
-        backgroundColor: 'violet',
+        backgroundColor: '#D3BBDD',
         height: '100vh',
         width: '100%',
         textAlign: 'center',
